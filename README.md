@@ -59,13 +59,8 @@ Lily starts panicking once she reaches. She feels there's something wrong with h
 
 ### Progression 7: Console Karen
 
-Lily's actions had a negative effect on Karen and now she's drifted further away. Lily realizes that she must do something immediately to console her daughter. She thinks of a couple of strategies that might help. Create a function `consoleKaren()` which takes an argument `strategies` and _returns the string length_.
+Lily's actions had a negative effect on Karen and now she's drifted further away. Lily realizes that she must do something immediately to console her daughter. She thinks of a couple of strategies that might help. Create a function `consoleKaren()` which takes an argument `strategies`. Concatenate these strategies and _returns the string length_.
 
 _This lab is inspired by [Mysterious Friend](https://yourstoryclub.com/short-stories-unusual-experience/thriller-short-story-mysterious-friend/) - yourstoryclub.com_
 
-<<<<<<< HEAD
-_Inspired by [Mysterious Friend](https://yourstoryclub.com/short-stories-unusual-experience/thriller-short-story-mysterious-friend/) - yourstoryclub.com_
-# lab-story-time
-=======
 Happy Coding ProGrad ❤️
->>>>>>> 58b3aa1b47c52dcc2f9f30186f5b6b07d7df44a3
