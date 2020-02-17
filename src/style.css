@@ -18,3 +18,13 @@ a {
     color: firebrick;
     font-weight: bold;
 }
+.footers{
+    position: absolute;
+    font-family: 'Courier New', Courier, monospace;
+	top: 750px;
+	margin-left: 80px;
+	font-size: 18px;
+	font-family: Nunito Sans;
+    font-style: normal;
+    color: ivory;
+}
