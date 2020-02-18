@@ -28,7 +28,7 @@ if (moreAboutHome("Riverside Manor", 25, false) == "stringnumberboolean") {
             if (sweetTooth(200, 50, 1, 100) == 25) {
                 let p5 = "<p>She prepared Karen's favourite sweet one day and asked her if she wanted to take it to her friend. Karen was delighted and said, \"I\'m sure she\'ll love it. Thank you so much, ma!\" Lily followed her closely without being noticed.</p>";
                 updateProgression(4, p5);
-                if (convertToCelcius(32) == 0) {
+                if (convertToCelsius(32) == 0) {
                     let p6 = "<p>On reaching the river, she was stunned to see that Karen was talking to herself. Lily walked upto Karen and asked, \“Sweety, what are doing here all alone?\” Karen got upset and said, \"My friend ran away because of you!\" Lily was furious and dragged her back home.</p>";
                     updateProgression(5, p6);
                     if (aDifficultChoice(2) == "Talk to her husband about it") {
