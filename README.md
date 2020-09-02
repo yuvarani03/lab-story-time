@@ -30,7 +30,7 @@ Open the `SpecRunner.html` file on your browser and start coding to pass the tes
 
 We've got some basic information about Karen's home. Find out the type of each data. Create a function `moreAboutHome()` which takes `address, distanceFromTown, hasNeighbours` as arguments and _returns all datatypes concatenated in a single variable_.
 ## Output
-![Image description](https://i1.faceprep.in/ProGrad/lab-story-p-1.png)
+![Image description](https://i1.faceprep.in/ProGrad/lab-story-p-1.PNG)
 
 ### Progression 2: My name is Karen
 
