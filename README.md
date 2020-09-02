@@ -35,10 +35,14 @@ We've got some basic information about Karen's home. Find out the type of each d
 ### Progression 2: My name is Karen
 
 Now, we're given some more information about Karen's family. Create a function `moreAboutKaren()` that takes `parents, noOfSiblings, isNuclearFamily` as arguments. Check if the arguments passed are of the datatypes `String, Number, Boolean` respectively and _return true/false_ accordingly.
+## Output
+![Image description](https://i1.faceprep.in/ProGrad/lab-story-p-3.PNG)
 
 ### Progression 3: Karen's new friend
 
 Karen says she's made a new friend but Lily (Karen's Mom) doesn't believe her yet. create a function `doesFriendExist()` that takes `ageInText, ageInNumber` as arguments. It checks which of the given value is `NaN` and _returns the value_.
+## Output
+![Image description](https://i1.faceprep.in/ProGrad/lab-story-p-4.PNG)
 
 ### Progression 4: Lily's investigation
 
@@ -50,14 +54,20 @@ Lily gave Karen some sweets in order to calm her down so she could follow her. L
 - Her friend divided the remaining sweets into 2 parts for each of them.
 
   Create a function `sweetTooth()` which takes `totalNoOfSweets, sweetsConsumedByKaren, sweetsConsumedInNMeters, metersToTravel` as arugments and _return number of sweets Karen's friend would have_.
+  ## Output
+![Image description](https://i1.faceprep.in/ProGrad/lab-story-p-5.PNG)
 
 ### Progression 5: Haunting discovery
 
 Lily stalks Karen slowly, making sure not to alert her. Suddenly, a gust of wind sends a chill down her spine. She feels the temperature dropping and checks her phone. It displays the temperature in fahrenheit. Create a function `convertToCelsius()` which takes an argument `fahrenheit` and _returns the temperature in celcius_.
+  ## Output
+![Image description](https://i1.faceprep.in/ProGrad/lab-story-p-6.PNG)
 
 ### Progression 6: Rising paranoia
 
 Lily starts panicking once she reaches. She feels there's something wrong with her and requires immediate medical attention. She cannot decide what to do next. How to fix this without hurting her child any further. Create a function `aDifficultChoice()` which takes an argument `choice` and _returns the corresponding choice_.
+  ## Output
+![Image description](https://i1.faceprep.in/ProGrad/lab-story-p-7.PNG)
 
 ### Progression 7: Console Karen
 
